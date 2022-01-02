@@ -1,0 +1,73 @@
+main {
+    width: 1000px;
+    line-height: 160%;
+  }
+  .header {
+    height: 400px;
+    background-size: 100% 100%;
+    background-image: url('https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png');
+    font-family: 'Abril Fatface', cursive;
+    color: #222;
+    font-size: 32px;
+  }
+  .text-in-header {
+    line-height: 0px;
+    position: relative;
+    top: 64%;
+    left: 21%;
+  }
+  #bigger-p{
+    font-size: 60px;
+  }
+  .main-contant {
+    width: 750px;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #222;  
+  }
+  .about-me {
+    margin-top: 50px;
+  }
+  .quotes {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px;
+    background-color: #222;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  .one-quote {
+    color: white;
+    position: absolute;
+    top: 40px;
+    left: 5px;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 120px;
+  }
+  .text-in-quotes {
+   margin-left: 70px;
+   margin-right: auto;
+   line-height: 110%; 
+  }
+  h2 {
+    text-transform: uppercase;
+    font-size: 22px;
+    margin-top: 50px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  h4 {
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    font-style: italic;
+  }
+  li {
+    list-style-type: square;
+  }
+  .training {
+    border-bottom: 5px solid #222;
+  }
